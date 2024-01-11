@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Architecture</string>
+
+    <!-- Main Screen -->
+    <string name="welcome_msg">Welcome to Lecture #6:\nArchitecture of Presentation Layer</string>
+    <string name="workshop_1">Workshop 1</string>
+    <string name="workshop_2">Workshop 2</string>
+    <string name="workshop_3">Workshop 3</string>
+
+    <!-- WS01-WS02 -->
+    <string name="ws01_ws02_user_name">User name</string>
+    <string name="ws01_ws02_password">Password</string>
+    <string name="ws01_ws02_login">Login</string>
+    <string name="ws01_ws02_user_name_error">User name error</string>
+    <string name="ws01_ws02_password_error">Password error</string>
+    <string name="ws01_ws02_login_success">Login success!!!</string>
+    <!-- WS01-WS02 -->
+
+    <string name="com_travelpayouts_marker" tools:ignore="MissingTranslation">put marker here</string>
+    <string name="com_travelpayouts_api_token" tools:ignore="MissingTranslation">put api token here</string>
+
+
+    <!-- WS03 -->
+    <string name="add_new_location">Add New Location</string>
+    <!-- WS03 -->
+
+</resources>
