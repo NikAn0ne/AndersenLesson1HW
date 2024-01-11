@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Android Welcome to second branch")
+                    Greeting("Android Welcome to second branch and now welcome to third!")
                 }
             }
         }
